@@ -20,6 +20,7 @@ namespace test1
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("git test");
+            MessageBox.Show("git test123");
         }
     }
 }
