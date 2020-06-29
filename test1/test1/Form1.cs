@@ -25,6 +25,7 @@ namespace test1
             fr1.Text="同步测试"+now();
             MessageBox.Show("git test123213");
             MessageBox.Show("git");
+            MessageBox.Show("gitdasda");
 
 
         }
