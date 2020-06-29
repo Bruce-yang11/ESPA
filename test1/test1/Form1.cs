@@ -21,6 +21,9 @@ namespace test1
         {
             MessageBox.Show("git test");
             MessageBox.Show("git test123");
+            Form1 fr1 = new Form1();
+            fr1.Text="同步测试"+now();
+
         }
     }
 }
